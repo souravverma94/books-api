@@ -1,0 +1,6 @@
+development:
+   adapter: mysql2
+   host: localhost
+   database: bookapi
+   username: 'root'
+   password: 'root'
